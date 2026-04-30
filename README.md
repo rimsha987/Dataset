@@ -1,7 +1,6 @@
 # ZopaAI Case Study 
 
-Public German geographic datasets gathered for the ZopaAI case study at Saarland University. This is Phase 1, the data foundation.
-
+Public German geographic datasets gathered for the ZopaAI case study at Saarland University. 
 ## Datasets
 
 All public datasets below are sourced from suche-postleitzahl.org, which derives them from OpenStreetMap and the German Federal Statistical Office (Destatis).
