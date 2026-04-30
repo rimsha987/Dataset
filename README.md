@@ -1,4 +1,4 @@
-# ZopaAI Case Study Data Foundation
+# ZopaAI Case Study 
 
 Public German geographic datasets gathered for the ZopaAI case study at Saarland University. This is Phase 1, the data foundation.
 
